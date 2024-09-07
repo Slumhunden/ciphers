@@ -6,6 +6,8 @@ To compile the program, run the following command in the terminal:
 
 'gcc caesar.c cipher.c -o caesar'
 
+There will come an error concerning the 'main' function, but that is expected. This happens since the Danish Alphabet is hardcoded in the program. I think.
+
 ## Usage
 To run the program, run the following command in the terminal:
 
